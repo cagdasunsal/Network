@@ -1,7 +1,5 @@
 # Bettercap ile M.i.t.M Saldırısı
 
-Bu proje, Bettercap kullanarak Man-in-the-Middle (MitM) saldırılarının nasıl gerçekleştirileceğini anlatan bir kılavuzdur. Proje, İstanbul Gelişim Meslek Yüksekokulu Bilgisayar Teknolojisi Bölümü, Bilişim Güvenliği Teknolojisi Programı öğrencisi Çağdaş Ünsal tarafından hazırlanmıştır.
-
 ## İçindekiler)
 - [Özet](#özet)
 - [Ön Söz](#ön-söz)
